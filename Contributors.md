@@ -15,6 +15,10 @@
 - Bio: Jake record me dekh.
 - GitHub: [Ishaniiit](https://github.com/Ishaniiit/)
 
+#### Name: [Alvin Zippo](https://github.com/A1zippo1)
+- Place: Spain, Europe
+- Bio: Computer Scientist
+- GitHub: [A1zippo1](https://github.com/A1zippo1)
 
 #### Name: [Tulika Shivani](https://github.com/Tulika-Shivani/)
 - Place: Varanasi, UP, India
